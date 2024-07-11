@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "comments",
+    "noEmit": false,
+    "isolatedModules": false
+  },
+  "include": ["/server/index.ts"]
+}
