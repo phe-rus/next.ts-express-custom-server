@@ -2,7 +2,7 @@
 
 To get started clone the repository
 
-![next.ts express custom server](/public/next.ts express custom server.png)
+![next.ts express custom server](https://raw.githubusercontent.com/phe-rus/next.ts-express-custom-server/main/public/next.ts%20express%20custom%20server.png)
 
 ```terminal
 https://github.com/phe-rus/next.ts-express-custom-server.git name-your-project
