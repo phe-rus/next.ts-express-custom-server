@@ -6,5 +6,5 @@
     "noEmit": false,
     "isolatedModules": false
   },
-  "include": ["/server/index.ts"]
+  "include": ["/src/payload/index.ts"]
 }

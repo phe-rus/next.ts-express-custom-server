@@ -1,6 +1,6 @@
 {
-  "watch": ["/server/index.ts", "src"],
+  "watch": ["/src/payload/index.ts", "src"],
   "ext": "ts,json",
   "ignore": ["src/**/*.spec.ts"],
-  "exec": "node --import tsx /server/index.ts"
+  "exec": "node --import tsx /src/payload/index.ts"
 }

@@ -4,9 +4,9 @@
   "private": "false",
   "type": "module",
   "scripts": {
-    "dev": "nodemon --watch 'server/index.ts' --watch 'src/**/*.ts' --exec 'node --import tsx' server/index.ts",
+    "dev": "nodemon --watch '/src/payload/index.ts' --watch 'src/**/*.ts' --exec 'node --import tsx' /src/payload/index.ts",
     "build": "next build",
-    "start": "NODE_ENV=production node --import tsx server/index.ts",
+    "start": "NODE_ENV=production node --import tsx /src/payload/index.ts",
     "lint": "next lint"
   },
   "dependencies": {
